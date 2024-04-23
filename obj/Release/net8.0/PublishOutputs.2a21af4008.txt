@@ -1,0 +1,13 @@
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto Web-Lh Pets versão 1.exe
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\appsettings.Development.json
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\appsettings.json
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto Web-Lh Pets versão 1.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto Web-Lh Pets versão 1.deps.json
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto Web-Lh Pets versão 1.runtimeconfig.json
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\Projeto Web-Lh Pets versão 1.pdb
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Back end 01.04.2024\Projeto Web LH-Pets\Nova pasta\Projeto Web-Lh Pets versão 1\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
